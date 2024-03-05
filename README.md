@@ -12,4 +12,11 @@ User input is done using numbers. The prompt asks the user what they would like 
 2. File info plus individual averages
 3. File info plus team info
 4. Exit loop
+-----------------------------------------------------
+BowlerDemo.java is where all testing takes place
 
+The program uses:
+java.io.* for file input
+java.util.StringTokenizer for tokenizing the file info
+java.util.Scanner for reading input and reading the file input
+java.util.ArrayList for organizing the Bowler objects that are instantiated
